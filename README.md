@@ -46,9 +46,14 @@ endmodule
 Developed by:Pavithra k   RegisterNumber:212224240112
 
 
-**RTL realization**
+**logic symbol & truth table:**
+![Screenshot 2025-04-23 180137](https://github.com/user-attachments/assets/af4663fa-5551-4c49-aaed-f69248ab68f4)
 
-**Output:**
+
+
+![Screenshot 2025-04-23 180209](https://github.com/user-attachments/assets/53b9f195-969d-4852-bc05-1fece35bd12e)
+
+
 
 **RTL**
 ![Screenshot 2025-04-23 174215](https://github.com/user-attachments/assets/f1e288c3-68f1-4fe6-8afe-75473fa5ade9)
